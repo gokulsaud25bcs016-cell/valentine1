@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Heart, Stars, Music, Gift, Camera, Utensils } from 'lucide-react';
+import { Heart, Stars, Gift, Camera, Utensils } from 'lucide-react';
 import './App.css';
 
 const App = () => {
